@@ -160,7 +160,5 @@ node index.js <path-to-torrent-file>
 
 ---
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
